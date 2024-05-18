@@ -1,0 +1,21 @@
+0 Billete de 20
+1 Billete de 50
+2 Billete de 100
+3 Billete de 200
+4 Billete de 500
+5 Billete de 1000
+6 Bote
+7 Celular
+8 Flor
+9 Gato
+10 Perro
+11 Lentes
+12 Llaves
+13 Pajaro
+14 Persona
+15 Teclado
+16 Moneda
+17 Audifonos
+18 Libreta
+19 Reloj
+20 Cartera
